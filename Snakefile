@@ -1,0 +1,1 @@
+configfile: "config/snakeconfig.yaml"
